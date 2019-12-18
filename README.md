@@ -1,4 +1,4 @@
-# GE-Assignment-Proposal
-Game Engines Assignment Proposal --- C16409712
+# GE-Assignment
+Game Engines Assignment --- C16409712
 
 
