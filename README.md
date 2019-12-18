@@ -21,4 +21,4 @@ Another big help was a series of tutorial videos by Peer Play on YouTube. Many o
 # YouTube Link
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=X8__wfXemKE
 " target="_blank"><img src="http://img.youtube.com/vi/X8__wfXemKE/0.jpg" 
-alt="Audio Visualization" width="1280" height="720" border="0" /></a>
+alt="Audio Visualization" width="1280" height="720" border="100" /></a>
