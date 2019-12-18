@@ -1931,6 +1931,57 @@ MonoBehaviour:
   startScale: 1
   scaleMultiplier: 10
   useBuffer: 1
+--- !u!1 &1259836119
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1259836122}
+  - component: {fileID: 1259836120}
+  m_Layer: 0
+  m_Name: TangentCircles
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1259836120
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1259836119}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ed38408d1990154c85076c967e3c254, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  circlePrefab: {fileID: 7441505535786893158, guid: 35b6fc5ee69323545a4f34b46252e0db,
+    type: 3}
+  innerCircle: {x: 0, y: 0, z: 0, w: 80}
+  outerCircle: {x: 0, y: 0, z: 0, w: 100}
+  circleAmount: 32
+  distanceToOuterTangent: 0.05
+  movementSmooth: 0
+  useSmoothMovement: 0
+--- !u!4 &1259836122
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1259836119}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 124.2, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 28
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1365717824
 GameObject:
   m_ObjectHideFlags: 0
