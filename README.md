@@ -16,7 +16,7 @@ For the lighting in the scene, I created a new LightAudio script, which would ma
 
 
 # What Worked Best
-I am very happy with the colors and lighting in the scene. The changing intensity of the lighting works wellwith the music, and provides good feelings of excitement during intense music, and feelings of calm during more mellow parts of the music.
+I am very happy with the colors and lighting in the scene. The changing intensity of the lighting works well with the music, and provides good feelings of excitement during intense music, and feelings of calm during more mellow parts of the music. I really enjoy the harmony of the blue and purple colors, and it results in the exact neon feel I wanted.
 
 
 # Useful Resources
