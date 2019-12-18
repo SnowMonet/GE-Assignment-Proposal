@@ -1432,7 +1432,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &793019299
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1967,7 +1967,12 @@ MonoBehaviour:
   circleAmount: 32
   distanceToOuterTangent: 0.05
   movementSmooth: 0
-  useSmoothMovement: 0
+  useSmoothMovement: 1
+  radiusChangeSpeed: 0.1
+  band: 6
+  startScale: 1
+  scaleMultiplier: 10
+  useBuffer: 1
 --- !u!4 &1259836122
 Transform:
   m_ObjectHideFlags: 0
@@ -2001,7 +2006,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &1365717825
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2630,7 +2635,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &1847923978
 MonoBehaviour:
   m_ObjectHideFlags: 0
