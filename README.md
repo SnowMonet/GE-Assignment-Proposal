@@ -18,6 +18,7 @@ The Unity online documentation manual were a great help during this project.They
 Another big help was a series of tutorial videos by Peer Play on YouTube. Many of the effects utilized in my projects were created by combining and mixing different techniques I learned from these videos.
 
 
+# YouTube Link
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=X8__wfXemKE
 " target="_blank"><img src="http://img.youtube.com/vi/X8__wfXemKE/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
